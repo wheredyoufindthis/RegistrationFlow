@@ -1,0 +1,28 @@
+PODS:
+  - PKHUD (5.0.0)
+  - ReactiveSwift (3.1.0):
+    - Result (~> 3.2)
+  - Result (3.2.4)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - PKHUD
+  - ReactiveSwift
+  - SnapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - PKHUD
+    - ReactiveSwift
+    - Result
+    - SnapKit
+
+SPEC CHECKSUMS:
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  ReactiveSwift: 5b26d2e988fe0eed2daf48c4054d1de74db50184
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: 1f066b8fcfcee4d9d4f15a6e14faad9e70d73f65
+
+COCOAPODS: 1.5.3
